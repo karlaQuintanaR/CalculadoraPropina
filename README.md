@@ -5,7 +5,7 @@ Solution code for the [Android Basics with Compose](https://developer.android.co
 
 
 Introduction
-------------
+------------   
 The Tip Time app contains various UI elements for calculating a tip,
 teaching about user input, and State in Compose.
 
